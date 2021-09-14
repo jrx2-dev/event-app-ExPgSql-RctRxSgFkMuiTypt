@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.textContainer {
+  text-align: center;
+  h1 {
+    color: #3f51b5;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+  }
+  h2 {
+    color: #3483fa;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+  }
+  p {
+    font-size: 15px;
+    font-weight: 500;
+  }
+  a {
+    color: #3483fa;
+  }
+}

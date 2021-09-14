@@ -1,0 +1,21 @@
+.root {
+  max-width: 450px;
+  display: block;
+  margin: 0 auto;
+}
+.textField > * {
+    width: 100%;
+}
+.submitButton {
+  margin-top: 24px;
+}
+.title {
+  color: #3f51b5;
+  text-align: center;
+}
+.successMessage {
+  color: green;
+}
+.errorMessage {
+  color: red;
+}
