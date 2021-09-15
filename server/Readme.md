@@ -32,6 +32,7 @@ Events Application
 
 #### Setup
 - Rename .env.template to .env and configured if needed
+- Dev/Test database configurations in /api/server/src/config/config.js
 - Installing the project dependencies
   > Run the command below
   ```shell
